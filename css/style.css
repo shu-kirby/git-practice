@@ -5,3 +5,7 @@ span {
     color: #fff;
     background: skyblue;
 }
+ul {
+    display: flex;
+    justify-content: space-around;
+}
