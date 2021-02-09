@@ -15,6 +15,7 @@
 }
 .test2 {
     background: pink;
+    line-height: 1.5;
 }
 ul {
     display: flex;
