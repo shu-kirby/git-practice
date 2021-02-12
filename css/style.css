@@ -40,6 +40,9 @@ li {
     background: pink;
     cursor: pointer;
 }
+.test3 {
+    margin-top: 25px;
+}
 .test3 img {
     width: 180px;
     height: 180px;
