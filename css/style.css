@@ -28,3 +28,13 @@ li {
     text-decoration: none;
     color: #fff;
 }
+.test2 ul li {
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-weight: bold;
+    background: #fff;
+    border: pink solid 2px;
+    box-sizing: border-box;
+}
