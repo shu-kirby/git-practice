@@ -35,3 +35,8 @@ li {
     border: pink solid 2px;
     box-sizing: border-box;
 }
+.test2 ul li:hover {
+    color: #fff;
+    background: pink;
+    cursor: pointer;
+}
