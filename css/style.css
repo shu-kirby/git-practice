@@ -24,10 +24,6 @@ ul {
 li {
     list-style: none;
 }
-.test2 li a {
-    text-decoration: none;
-    color: #fff;
-}
 .test2 ul li {
     width: 150px;
     margin-left: auto;
