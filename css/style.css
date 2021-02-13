@@ -49,3 +49,9 @@ li {
     width: 180px;
     height: 180px;
 }
+.list-item {
+    margin-left: 90px;
+    width: 500px;
+    border: 2px skyblue dashed;
+    padding: 20px;
+}
