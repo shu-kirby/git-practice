@@ -52,7 +52,8 @@ li {
 .list-item {
     margin-left: 90px;
     width: 500px;
-    border: 2px skyblue dashed;
+    background: #8cceff;
+    border: 2px #fff dashed;
     padding: 20px;
 }
 .list-item ul li {
