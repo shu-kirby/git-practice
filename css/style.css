@@ -55,3 +55,9 @@ li {
     border: 2px skyblue dashed;
     padding: 20px;
 }
+.list-item ul li {
+    font-size: 22px;
+    color: skyblue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
