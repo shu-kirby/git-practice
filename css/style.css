@@ -65,3 +65,8 @@ li {
 .news {
     margin-top: 60px;
 }
+.news h1 {
+    font-size: 25px;
+    color: gray;
+    margin-bottom: 15px;
+}
