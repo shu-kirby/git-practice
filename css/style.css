@@ -70,3 +70,7 @@ li {
     color: gray;
     margin-bottom: 15px;
 }
+.news p {
+    color: gray;
+    line-height: 1.5;
+}
