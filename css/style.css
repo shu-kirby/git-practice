@@ -110,3 +110,7 @@ li {
     border-bottom: 3px solid #000;
     transform: rotate(45deg);
 }
+#nav li:last-of-type {
+    float: none;
+    margin: 0 auto;
+}
