@@ -129,3 +129,7 @@ li {
     padding: 83px 0 100px;
     text-decoration: none;
 }
+.contents {
+    height: 400px;
+    overflow: hidden;
+}
