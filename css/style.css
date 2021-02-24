@@ -133,3 +133,10 @@ li {
     height: 400px;
     overflow: hidden;
 }
+.left {
+    float: left;
+    height: 400px;
+    width: 50%;
+    background: no-repeat;
+    background-size: cover;
+}
