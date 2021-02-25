@@ -149,3 +149,8 @@ li {
 #photo03 {
     background-image: url(../images/picture_pc3.jpg);
 }
+.right {
+    float: right;
+    width: 50%;
+    height: 400px;
+}
