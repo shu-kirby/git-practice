@@ -157,3 +157,7 @@ li {
 .text {
     background-color: #aaa;
 }
+.contents p,h4 {
+    margin: 30px 120px 0 21px;
+    color: #fff;
+}
