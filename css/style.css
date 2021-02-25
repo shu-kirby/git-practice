@@ -140,3 +140,6 @@ li {
     background: no-repeat;
     background-size: cover;
 }
+#photo01 {
+    background-image: url(../images/picture_pc.jpg);
+}
